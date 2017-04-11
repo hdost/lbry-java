@@ -1,0 +1,33 @@
+{
+    "claim_id": "6dfacc3fdfb03613c8112361a443c66a978ba6d9",
+    "completed": true,
+    "download_directory": "/Users/harolddost/Downloads",
+    "download_path": "/Users/harolddost/Downloads/profilePic500.jpg",
+    "file_name": "profilePic500.jpg",
+    "key": "16aac236c0f99f755e16d490e94827e7",
+    "message": "Started profilePic500.jpg, got 2/2 blobs, stream status: completed",
+    "metadata": {
+        "author": "Harold Dost",
+        "content_type": "image/jpeg",
+        "description": "Profile Picture",
+        "language": "en",
+        "license": "CC BY-SA 3.0 US",
+        "nsfw": false,
+        "sources": {
+            "lbry_sd_hash": "52313e432200d8ec97f04f4e5c91a6704c0d3cf03b51f83dae236d5693dfd84d1a596292c30444214a0cdbe6a89b4305"
+        },
+        "title": "Harold Dost Profile Picture",
+        "ver": "0.0.3"
+    },
+    "mime_type": "image/jpeg",
+    "name": "harolddostprofilepic500",
+    "outpoint": "1e1ca31aa721148845cd8319fa42c725017c84186d9b0b317e840efd44d87cc0:0",
+    "points_paid": 0.0,
+    "sd_hash": "52313e432200d8ec97f04f4e5c91a6704c0d3cf03b51f83dae236d5693dfd84d1a596292c30444214a0cdbe6a89b4305",
+    "stopped": true,
+    "stream_hash": "39e091d2223e4a99f18c8a55433cccd8ec9c80b680cf644e526bfde51e167377bdbfd5e0a8166c7f99e93d130e962f73",
+    "stream_name": "profilePic500.jpg",
+    "suggested_file_name": "profilePic500.jpg",
+    "total_bytes": 2705072,
+    "written_bytes": 2705055
+}

@@ -1,0 +1,9 @@
+{
+    "error": {
+        "code": 8002,
+        "data": "Traceback (most recent call last):\nFailure: lbrynet.lbrynet_daemon.auth.server.UnknownAPIMethodError: list_peers\n",
+        "message": "Traceback (most recent call last):\nFailure: lbrynet.lbrynet_daemon.auth.server.UnknownAPIMethodError: list_peers\n"
+    },
+    "id": 0,
+    "jsonrpc": "2.0"
+}

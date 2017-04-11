@@ -1,0 +1,18 @@
+[
+    {
+        "address": "bVSDjdPaCcJDkr4mCLHZZF9bdvJNezJ5Qk",
+        "amount": 1.0,
+        "blocks_to_expiration": 106566,
+        "category": "claim",
+        "claim_id": "6dfacc3fdfb03613c8112361a443c66a978ba6d9",
+        "confirmations": 156408,
+        "expiration_height": 262974,
+        "expired": false,
+        "height": 0,
+        "is_spent": false,
+        "name": "harolddostprofilepic500",
+        "nout": 0,
+        "txid": "1e1ca31aa721148845cd8319fa42c725017c84186d9b0b317e840efd44d87cc0",
+        "value": "{\"ver\": \"0.0.3\", \"description\": \"Profile Picture\", \"license\": \"CC BY-SA 3.0 US\", \"author\": \"Harold Dost\", \"title\": \"Harold Dost Profile Picture\", \"language\": \"en\", \"nsfw\": false, \"content_type\": \"image/jpeg\", \"sources\": {\"lbry_sd_hash\": \"52313e432200d8ec97f04f4e5c91a6704c0d3cf03b51f83dae236d5693dfd84d1a596292c30444214a0cdbe6a89b4305\"}}"
+    }
+]

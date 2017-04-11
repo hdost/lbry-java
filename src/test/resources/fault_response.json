@@ -1,0 +1,5 @@
+{
+    "fault": "JSONRPCException",
+    "faultCode": 8002,
+    "faultString": "Traceback (most recent call last):\n  File \"site-packages/lbrynet/lbrynet_daemon/DaemonRequest.py\", line 94, in requestReceived\n    \n  File \"site-packages/twisted/web/server.py\", line 190, in process\n    \n  File \"site-packages/twisted/web/server.py\", line 241, in render\n    \n  File \"site-packages/lbrynet/lbrynet_daemon/auth/server.py\", line 210, in render\n    \n--- <exception caught here> ---\n  File \"site-packages/twisted/internet/defer.py\", line 150, in maybeDeferred\n    \n  File \"site-packages/twisted/internet/defer.py\", line 1436, in unwindGenerator\n    \nexceptions.TypeError: jsonrpc_get() takes at least 2 arguments (1 given)\n"
+}

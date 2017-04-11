@@ -1,0 +1,16 @@
+{
+    "method":"publish",
+    "params":{
+        "name":"harolddostprofilepic500",
+        "file_path":"/Users/harolddost/Documents/Media/Photos/000000_ProfilePictures/profilePic500.jpg",
+        "bid":1,
+        "metadata":{
+            "description":"Profile Picture",
+            "title":"Harold Dost Profile Picture",
+            "author":"Harold Dost",
+            "language":"en",
+            "license":"CC BY-SA 3.0 US",
+            "nsfw":false
+        }
+    }
+}
