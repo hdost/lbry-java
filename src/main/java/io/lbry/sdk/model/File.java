@@ -11,7 +11,7 @@ public class File extends LbryObject {
 
     @Getter
     @Setter
-    private bool completed; /* (bool) true if download is completed, */
+    private boolean completed; /* (bool) true if download is completed, */
     @Getter
     @Setter
     @SerializedName( "file_name" )
@@ -67,11 +67,11 @@ public class File extends LbryObject {
     @Getter
     @Setter
     @SerializedName( "total_bytes" )
-    private String totalBytes; /* (int) file size in bytes, None if full_status is false */
+    private int totalBytes; /* (int) file size in bytes, None if full_status is false */
     @Getter
     @Setter
     @SerializedName( "written_bytes" )
-    private String writtenBytes; /* (int) written size in bytes */
+    private int writtenBytes; /* (int) written size in bytes */
     @Getter
     @Setter
     private String message; /* (str), None if full_status is false */

@@ -1,6 +1,5 @@
-package io.libry.sdk;
+package io.lbry.sdk;
 
-import io.lbry.sdk.exception.LbryException;
 import io.lbry.sdk.model.File;
 
 import java.net.PasswordAuthentication;
@@ -8,6 +7,7 @@ import java.net.Proxy;
 
 public abstract class Lbry {
 
+    public static final String VERSION =  "0.1";
     private static volatile String apiBase = "http://localhost:5279/lbryapi";
     private static volatile Proxy proxy = null;
     private static volatile PasswordAuthentication proxyCredential = null;
