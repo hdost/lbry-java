@@ -23,3 +23,7 @@ dependencies {
     // 'test.useTestNG()' to your build script.
     testCompile 'junit:junit:5.0.0-M3'
 }
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '3.1' //we want gradle 2.10 to run this project
+}
